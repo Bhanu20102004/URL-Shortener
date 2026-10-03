@@ -1,11 +1,11 @@
 1.**Setup and running**
     create and activate a virtual environment
-    python -m venv .venv
-    .venv\Scripts\activate
-    pip install -r requirements.txt
-    python manage.py migrate
-    python manage.py test
-    python manage.py runserver 8080
+    -->python -m venv .venv
+    -->.venv\Scripts\activate
+    -->pip install -r requirements.txt
+    -->python manage.py migrate
+    -->python manage.py test
+    -->python manage.py runserver 8080
 
 
   **Configuration**
